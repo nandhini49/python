@@ -1,0 +1,4 @@
+s=int(input("enter a number: "))
+l=int(input("enter a number: "))
+b=int(input("enter a number: "))
+print(s*l)
