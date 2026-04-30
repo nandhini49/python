@@ -10,4 +10,5 @@ for i in range(5):
         g="B"
     else:
         g="A"
-print("{},Mr/Ms{}has scored {}%_{}grade".format(i+1,names[i].title(),p,g))
+    print("{}.Mr/Ms{}has scored {}%-{}grade".format(i+1,names[i].title(),p,g))
+
